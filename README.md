@@ -1,4 +1,4 @@
-# Hi, I'm Umm e Tooba 👋
+# Hi, I'm UMM E TOOBA.. 👋
 
 BBA student (Finance & Accounting) at Bahria University, Karachi. I'm building real, practical finance skills through hands-on projects, not just watching tutorials and calling it a day.
 
