@@ -18,9 +18,9 @@ Working through a structured self-built roadmap covering financial analysis, Exc
 
 ## Projects
 
-📊 **[Books to Statements — Retail Accounting Cycle](https://github.com/ummetooba-030/excel-books-to-statements)** — Full journal-to-financial-statements build for a retail business, including chart of accounts, journal entries, ledger, and trial balance.
-
 📈 **[3-Statement Financial Model](https://github.com/ummetooba-030/financial-modeling)** — Fully linked historical & forecast model (2018–2030), driver-based assumptions, balanced across all periods.
+
+📊 **[Books to Statements — Retail Accounting Cycle](https://github.com/ummetooba-030/excel-books-to-statements)** — Full journal-to-financial-statements build for a retail business, including chart of accounts, journal entries, ledger, and trial balance.
 
 📈 **[Excel Core Skills](https://github.com/ummetooba-030/excel-core-skills)** — Sales reporting templates, inventory management, and a dashboard built on real transactional data.
 
