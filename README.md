@@ -22,6 +22,8 @@ Working through a structured self-built roadmap covering financial analysis, Exc
 
 📈 **[3-Statement Financial Model](https://github.com/ummetooba-030/financial-modeling)** — Fully linked historical & forecast model (2018–2030), driver-based assumptions, balanced across all periods.
 
+📈 **[Excel Core Skills](https://github.com/ummetooba-030/excel-core-skills)** — Sales reporting templates, inventory management, and a dashboard built on real transactional data.
+
 *(More projects added as I finish them)*
 
 ## Let's connect
